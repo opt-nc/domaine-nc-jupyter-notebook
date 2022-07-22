@@ -1,6 +1,10 @@
 # domaine-nc-jupyter-notebook
 Jupyter Notebook dédié à la l'analyse des noms de domaines en Nouvelle-Calédonie
 
+# Google Colab
+Pour ceux qui ne veulent pas se prendre la tête: https://colab.research.google.com/github/opt-nc/domaine-nc-jupyter-notebook/blob/main/explore.ipynb
+
+# Conseil pour l'utilisation en local
 Configuration nécessaires (après clonage) en local:
  - Python 3.8 ou supérieur
  - créer un environement virtuel (python3 -m venv venv)
