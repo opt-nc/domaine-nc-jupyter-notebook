@@ -4,7 +4,7 @@ Jupyter Notebook dédié à la l'analyse des noms de domaines en Nouvelle-Caléd
 # Google Colab
 Pour ceux qui ne veulent pas se prendre la tête: https://colab.research.google.com/github/opt-nc/domaine-nc-jupyter-notebook/blob/main/explore.ipynb
 
-# Hitorique :octocat: avec gource
+# :octocat: Hitorique avec gource 🎥
 
 ```
 gource \
